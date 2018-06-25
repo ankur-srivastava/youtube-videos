@@ -1,7 +1,7 @@
 const request = require('request');
 
 var videoId = '';
-var api_key = 'AIzaSyBSDK94__J-mK8N6G-bSf4mpRsy9qn84YM';
+var api_key = '****';
 
 //For testing purpose
 var youtube_url = 'https://www.youtube.com/watch?v=Yl6ggYwxL3c&t=2s';
